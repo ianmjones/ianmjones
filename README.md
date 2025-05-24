@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Ian 👋
+
+* 🕸️ Personal website: [ianmjones.com](https://ianmjones.com)
+* 📺 YouTube channel: [@ianmjones](https://www.youtube.com/@ianmjones)
+* 💬 Mastodon: [@ianmjones@fosstodon](https://fosstodon.org/@ianmjones)
+
+I only use GitHUb for work and contributing to open source projects hosted here, my personal projects are on [SourceHut](https://git.sr.ht/~ianmjones/).
+
+I've archived my personal projects on GitHub as some are referenced by Linux distro package managers, or external lists of libraries etc.
 
 <!--
 **ianmjones/ianmjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
