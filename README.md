@@ -4,7 +4,7 @@
 * 📺 [@ianmjones](https://www.youtube.com/@ianmjones)
 * 💬 [@ianmjones@fosstodon](https://fosstodon.org/@ianmjones)
 
-I only use GitHUb for work and contributing to open source projects hosted here, my personal projects are on [SourceHut](https://git.sr.ht/~ianmjones/).
+I only use GitHUb for contributing to and sponsoring open source projects hosted here, my personal projects are on [SourceHut](https://git.sr.ht/~ianmjones/).
 
 I've archived my personal projects on GitHub as some are referenced by Linux distro package managers, or external lists of libraries etc.
 
