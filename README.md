@@ -1,8 +1,8 @@
 ## Hi, I'm Ian 👋
 
 * 🕸️ [ianmjones.com](https://ianmjones.com)
-* 📺 [@ianmjones](https://www.youtube.com/@ianmjones)
 * 💬 [@ianmjones@fosstodon](https://fosstodon.org/@ianmjones)
+* 📺 [@ianmjones](https://www.youtube.com/@ianmjones)
 
 I only use GitHUb for contributing to and sponsoring open source projects hosted here, my personal projects are on [SourceHut](https://git.sr.ht/~ianmjones/).
 
