@@ -6,7 +6,7 @@
 
 I only use GitHUb for contributing to and sponsoring open source projects hosted here, my personal projects are on [SourceHut](https://git.sr.ht/~ianmjones/).
 
-While I've deleted many of my personal projects from here, some are publicly archived as they are referenced by Linux distro package managers, or external lists of libraries etc.
+While I've deleted many of my personal projects from here, some are publicly archived as they are referenced by Linux distro package managers, articles, or external lists of libraries etc.
 
 <!--
 **ianmjones/ianmjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
